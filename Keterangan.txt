@@ -1,0 +1,9 @@
+Keterangan
+
+1. Pada gambar 1 terdapat informasi si pembuat yang berisi foto, nama, dan nim. 
+   Dibawah nya terdapat tombol Proses yang terhubung dengan proses proximty sensor
+
+2. Pada gambar 2 terdapat proses proximity. Jika X=0 berarti objek jauh dari sensor, 
+   dan jika X=5 berarti objek dekat dengan sensor. Dibawah nya terdapat tombol Database
+
+3. Pada gambar 3 terdapat database yang berisi data-data dari proses proximity
